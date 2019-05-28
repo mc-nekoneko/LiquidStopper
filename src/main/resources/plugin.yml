@@ -1,0 +1,15 @@
+name: ${project.name}
+version: ${project.version}
+main: dev.nekoneko.liquidstopper.LiquidStopper
+api-version: 1.13
+authors: [Nekoneko]
+description: ${project.description}
+website: ${project.url}
+commands:
+  stopwater:
+  stoplava:
+  givewater:
+  givelava:
+permissions:
+  liquidstopper.command:
+    default: op
