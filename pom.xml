@@ -52,7 +52,7 @@
                     <relocations>
                         <relocation>
                             <pattern>org.bstats</pattern>
-                            <shadedPattern>dev.nekoneko.revert.bstats</shadedPattern>
+                            <shadedPattern>dev.nekoneko.liquidstopper.bstats</shadedPattern>
                         </relocation>
                     </relocations>
                 </configuration>
