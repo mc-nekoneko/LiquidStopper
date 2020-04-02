@@ -55,7 +55,7 @@ public final class LiquidStopper extends JavaPlugin implements Listener {
         this.loadConfig();
         this.getServer().getPluginManager().registerEvents(this, this);
 
-        new Metrics(this);
+        new Metrics(this, 4769);
     }
 
     @Override
